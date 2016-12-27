@@ -1,0 +1,36 @@
+.idea/
+dependency-reduced-pom.xml
+target/
+dpe-scheduler/dependency-reduced-pom.xml
+
+*.war
+*.ear
+*.class
+.DS_Store
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+test-output/
+bin/
+*.iml
+*.ipr
+*.iws
